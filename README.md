@@ -133,7 +133,7 @@ class FizzBuzz {
 }
 ```
 
-- [ ] Open `FizzBuzz.java` in the `src/lab1` directory and click the run button in the top left corner.
+- [X] Open `FizzBuzz.java` in the `src/lab1` directory and click the run button in the top left corner.
 
 If you don't see this button, you may need to mark `src` as the `Sources Root` for the project. You can do this
 by right-clicking the `src` directory in the `Project` tab and near the bottom of the context menu
@@ -177,7 +177,7 @@ method `main` in the file you choose to run.
 
 ### Task 1.1: Rewrite this using `while`
 
-- [ ] You've puzzled through how Java `for` and `if` statements work; now rewrite this
+- [X] You've puzzled through how Java `for` and `if` statements work; now rewrite this
 to use a `while` loop instead of a `for` loop.
 
 ## How to test this code
